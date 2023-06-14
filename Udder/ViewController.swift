@@ -2,7 +2,6 @@
 //  ViewController.swift
 //  Udder
 //
-//  Created by Jinu Joy on 14/06/23.
 //
 
 import UIKit
